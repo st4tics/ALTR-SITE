@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/altr.png" height="150px" />
+  <img src="./assets/altr.png" height="250px" />
   <h1 align="center">ALTR site</h1>  
 </p>
 
