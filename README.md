@@ -38,43 +38,67 @@
 Просто главная страница, позже будет подвержена изменениям
 
 <p align="center">
-  <img src="./assets/auth.png" />
+  <img src="./assets/main.png" />
 </p>
 
 ### Новостная страница
 
 <p align="center">
-  <img src="./assets/auth.png" />
+  <img src="./assets/news.png" />
 </p>
 
 ### Бан лист
 
 <p align="center">
-  <img src="./assets/auth.png" />
+  <img src="./assets/ban.png" />
 </p>
 
 ### Рейтинг
 
 <p align="center">
-  <img src="./assets/auth.png" />
+  <img src="./assets/raiting.png" />
 </p>
 
 ### Поддержка
 
 <p align="center">
-  <img src="./assets/auth.png" />
+  <img src="./assets/sup.png" />
+</p>
+<p align="center">
+  <img src="./assets/sup-tik.png" />
+</p>
+<p align="center">
+  <img src="./assets/sup-tikop.png" />
+</p>
+<p align="center">
+  <img src="./assets/supadm.png" />
+</p>
+<p align="center">
+  <img src="./assets/sup-tikadm.png" />
 </p>
 
 ### Профиль
 
 <p align="center">
-  <img src="./assets/auth.png" />
+  <img src="./assets/prf-m.png" />
+</p>
+<p align="center">
+  <img src="./assets/prf-ed.png" />
+</p>
+<p align="center">
+  <img src="./assets/prf-med.png" />
+</p>
+<p align="center">
+  <img src="./assets/prf-inv.png" />
+</p>
+<p align="center">
+  <img src="./assets/prf-fr.png" />
 </p>
 
 ### Мессенджер
 
 <p align="center">
-  <img src="./assets/auth.png" />
+  <img src="./assets/mess.png" />
 </p>
 
 ### Магазин
